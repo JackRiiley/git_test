@@ -1,1 +1,3 @@
 I am using The Odin Project as a start to learning about Git repositories
+
+Simple commit test
